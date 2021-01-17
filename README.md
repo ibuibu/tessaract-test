@@ -1,3 +1,3 @@
-# tessaract-proto
+# tessaract-test
 
-A Tsst Of `tessaract.js`
+A Test Of `tessaract.js`
